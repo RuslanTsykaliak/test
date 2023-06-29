@@ -34,7 +34,7 @@ composer.json
 run:
 composer install --dev 
 
-vendor/bin/phpunit tests/submitPostTest.php  // tests = folder for the tests and submitPostTest.php = the file for testing.
+vendor/bin/phpunit tests/submitPostTest.php  // tests = folder for the tests and submitPostTest.php = the file for testing
 
 
 Structure of files and folders
