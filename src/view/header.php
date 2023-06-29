@@ -58,5 +58,6 @@
             <h1 class="page-title">Posts List</h1>
             <p class="page-description">Browse through the list of posts</p>
         </div>
+    </div>
 </body>
 </html>
