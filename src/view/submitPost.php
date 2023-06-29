@@ -31,3 +31,4 @@
 <?php 
 include '../controller/functionSubmitPost.php';
 include 'footer.php';
+?>
