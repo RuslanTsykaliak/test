@@ -1,8 +1,4 @@
-The project website:
-https://microblog.ruslantsykaliak.com
-
 The project website was created using Docker and is also hosted on a shared cPanel account
-
 On the posts feed page, the maximum post size is limited to 255 characters, and the title is limited to 25 characters
 
 Both the posts and authors' cookies are stored in the MySQL database
