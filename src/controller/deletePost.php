@@ -21,3 +21,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['creatorId']) && isset
 } else {
     echo "Invalid request";
 }
+?>
